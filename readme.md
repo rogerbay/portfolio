@@ -1,5 +1,8 @@
 # My portfolio
-Swift SwiftUI Apps Development Engineer-  Front and Back end - Microservices Development and Mobile Apps using Swift 5, SwiftUI iOS/iPad/iWatch, Vapor 4 Future of Web Development, Postgres. Computer Science graduated.
+Swift SwiftUI Apps Development Engineer
+Front end - Mobile Apps using Swift 5, SwiftUI iOS/iPad/iWatch, 
+Back end - Microservices Development and Mobile Apps using Swift 5, Vapor 4 Future of Web Development, Postico ORM, Postgres SQL Databases
+Computer Science graduated.
 # This is my work
 iOS Swift SwiftUI Apps Development 
 MVC MVVM Architecture Design Pattern.
